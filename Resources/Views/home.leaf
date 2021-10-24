@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <style>
+            h1 {
+                text-align: center;
+            }
+            p {
+                text-align: center;
+            }
+            body {
+                background-color:  lightskyblue;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Car Registration</h1>
+        <p>Welcome to Car Registration</p>
+    </body>
+</html>
